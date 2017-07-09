@@ -1,3 +1,12 @@
+/*
+*
+*   Copyright (C) Alena Studio - 2017
+*   Author : Akadream
+*   Project : Duma
+*
+*
+*/
+
 #include <iostream>
 #include <SDL.h>
 #include <SDL_mixer.h>
